@@ -1,0 +1,4 @@
+# Nunca subir el entorno virtual ni las claves
+.venv/
+.env
+__pycache__/
